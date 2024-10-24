@@ -46,5 +46,5 @@ def main():
       adicionar_ao_arquivo(nome_arquivo, mensagem_adicional)
   else:
       print("Encerrando o programa.")
-      time.sleep(1.5)
+      time.sleep(1)
 main()
